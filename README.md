@@ -1,4 +1,4 @@
-geodesic-dome-research
+Geodesic dome research
 ======================
 
 his research explores the possibility of self-build collective and temporary spaces in the public space. This type of system can expand the type of activities citizens perform in the public space and, for example, test the success of public facilities in an experimental way before using more permanents building systems.
@@ -13,5 +13,7 @@ The geodesic dome is based on the 3V 5/9 Kruschke geometry. The frame is formed 
 
 This four week research project was carried out by Javier Burón, Stephen Bourke, Jack Byrne, Aoife Marnane and Jennifer O’Riordan. Dome prototype was assembled at the Electric Picnic by Michael McLaughlin, Aidan Byrne, Stephen Bourke, Jack Byrne, Aoife Marnane, Jennifer O’Riordan & Javier Burón. The research was a collaboration between Fab Lab Limerick and Colaborativa.eu. We are grateful to Global Green and WeCreate for inviting us to their area at the Electric Picnic.
 
-All this work is licensed under a Creative Commons license Attribution-ShareAlike 2.0
+## Licence
+All this files are licensed by Colaborativa.eu and Fab Lab Limerick under a Creative Commons license Attribution-ShareAlike 2.0.
+
 All the details here: https://creativecommons.org/licenses/by-sa/2.0/
