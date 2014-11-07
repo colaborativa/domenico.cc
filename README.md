@@ -14,6 +14,6 @@ The geodesic dome is based on the 3V 5/9 Kruschke geometry. The frame is formed 
 This four week research project was carried out by Javier Burón, Stephen Bourke, Jack Byrne, Aoife Marnane and Jennifer O’Riordan. Dome prototype was assembled at the Electric Picnic by Michael McLaughlin, Aidan Byrne, Stephen Bourke, Jack Byrne, Aoife Marnane, Jennifer O’Riordan & Javier Burón. The research was a collaboration between Fab Lab Limerick and Colaborativa.eu. We are grateful to Global Green and WeCreate for inviting us to their area at the Electric Picnic.
 
 ## Licence
-All this files are licensed by [Colaborativa.eu](http://colaborativa.eu) and [Fab Lab Limerick](http://fablab.saul.ie) under a Creative Commons license Attribution-ShareAlike 2.0.
+All these files are licensed by [Colaborativa.eu](http://colaborativa.eu) and [Fab Lab Limerick](http://fablab.saul.ie) under a Creative Commons license Attribution-ShareAlike 2.0.
 
 All the details here: https://creativecommons.org/licenses/by-sa/2.0/
