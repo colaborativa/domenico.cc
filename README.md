@@ -1,7 +1,7 @@
 Domenico.cc an open source, low cost and digitally fabricated geodesic construction system
 ======================
 
-his research explores the possibility of self-build collective and temporary spaces in the public space. This type of system can expand the type of activities citizens perform in the public space and, for example, test the success of public facilities in an experimental way before using more permanents building systems.
+This research explores the possibility of self-build collective and temporary spaces in the public space. This type of system can expand the type of activities citizens perform in the public space and, for example, test the success of public facilities in an experimental way before using more permanents building systems.
 
 The geodesic dome was developed by Buckminster Fuller in the first half of the 20th century and was highly popular in the United Stated during the sixties and seventies. The design offers a great resistance to wind and can cover big spaces by using small size and light elements, this feature makes geodesic domes suitable for using unconventional materials and personal digital fabrication technologies.
 
