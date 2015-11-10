@@ -13,7 +13,15 @@ The geodesic dome is based on the 3V 5/9 Kruschke geometry. The frame is formed 
 
 This four week research project was carried out by Javier Burón, Stephen Bourke, Jack Byrne, Aoife Marnane and Jennifer O’Riordan. Dome prototype was assembled at the Electric Picnic by Michael McLaughlin, Aidan Byrne, Stephen Bourke, Jack Byrne, Aoife Marnane, Jennifer O’Riordan & Javier Burón. The research was a collaboration between Fab Lab Limerick and Colaborativa.eu. We are grateful to Global Green and WeCreate for inviting us to their area at the Electric Picnic.
 
-## Licence
-All these files are licensed by [Colaborativa.eu](http://colaborativa.eu) and [Fab Lab Limerick](http://fablab.saul.ie) under a Creative Commons license Attribution-ShareAlike 2.0.
 
-All the details here: https://creativecommons.org/licenses/by-sa/2.0/
+
+##Licensing Information
+
+### DOMENICO.CC REFERENCE DESIGN
+The Domenico.cc reference design is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). This applies to all design files (CAD, BOM, etc.) unless noted otherwise.
+
+### DOMENICO.CC NAME/LOGO
+Images of the Domenico.cc name/logo are licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/). If you would like to create an official Domenico.cc product and/or use the Domenico name contact us at info at colaborativa.eu
+
+Domenico.cc is an open source project by by [Colaborativa.eu](http://colaborativa.eu)
+We are We are a design, technology and social action agency, visit us at by [Colaborativa.eu](http://colaborativa.eu)
