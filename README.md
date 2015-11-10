@@ -1,4 +1,4 @@
-Geodesic dome research
+Domenico.cc an open source, low cost and digitally fabricated geodesic construction system
 ======================
 
 his research explores the possibility of self-build collective and temporary spaces in the public space. This type of system can expand the type of activities citizens perform in the public space and, for example, test the success of public facilities in an experimental way before using more permanents building systems.
