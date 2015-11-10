@@ -25,4 +25,4 @@ The Domenico.cc reference design is licensed under a [Creative Commons Attributi
 Images of the Domenico.cc name/logo are licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/). If you would like to create an official Domenico.cc product and/or use the Domenico name contact us at info at colaborativa.eu
 
 Domenico.cc is an open source project by by [Colaborativa.eu](http://colaborativa.eu)
-We are We are a design, technology and social action agency, visit us at by [Colaborativa.eu](http://colaborativa.eu)
+We are a design, technology and social action agency, visit us at by [Colaborativa.eu](http://colaborativa.eu)
